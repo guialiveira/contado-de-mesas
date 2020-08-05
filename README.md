@@ -2,4 +2,4 @@
 
 Flutter application.
 
- ![](contador-de-mesas/images/restaurante.jpg)
+ ![](images/restaurante.jpg)
